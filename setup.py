@@ -6,5 +6,5 @@ setup(name='CherryPy-Test',
       author='Stephen Lee',
       author_email='',
       url='http://www.python.org/sigs/distutils-sig/',
-      install_requires=['Django>=1.3','CherryPy>=3.2.5'],
+#      install_requires=['Django>=1.3','CherryPy>=3.2.5'],
      )
